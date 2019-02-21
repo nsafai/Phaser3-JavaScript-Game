@@ -1,4 +1,17 @@
-import 'phaser';
+import Phaser from 'phaser';
+import { printList, print2DLists, printZeroGrid } from './utils';
+
+// START TESTING UTILS
+const list = [1, 4, 6, 9];
+printList(list);
+
+const listOfLists = [ [1, 2, 3], [4, 5, 6], [7, 8, 9] ];
+print2DLists(listOfLists);
+print2DLists(list);
+
+printZeroGrid(8, 6);
+
+// END UTILS
 
 var config = {
     type: Phaser.AUTO,
