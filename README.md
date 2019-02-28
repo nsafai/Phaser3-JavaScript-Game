@@ -1,6 +1,6 @@
-# Phaser 3 Webpack Project Template
+# Phaser 3 JavaScript Platform Game!
 
-A Phaser 3 Project Template
+A platform game written in JavaScript using the Phaser 3 Game Engine.
 
 ### Requirements
 
@@ -30,3 +30,7 @@ Updating and saving files in this folder will automatically rebuild the project 
 ### assets directory
 
 You must keep all of the file assets in the assets folder. This inlcudes images, audio and other data your project may load. 
+
+## Credits
+
+This project was largely inspired from [this tutorial](https://phaser.io/tutorials/making-your-first-phaser-3-game/index) and [this video series](https://www.youtube.com/watch?v=7gGjBkKM_8M&list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R&index=13)
